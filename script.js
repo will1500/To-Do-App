@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(function() {
 
   // form to create new todo
@@ -89,3 +90,17 @@ var task1 = new ToDo("chores", "clean");
   });
 
 });
+=======
+document
+.getElementById("hover-button")
+.addEventListener("mouseenter"), function() {
+   $("#myModal").modal("show");
+alert("hey");
+});
+
+
+
+
+
+
+>>>>>>> 5d2ac30fa9366e55a419575674ca1c1a62c5942c
